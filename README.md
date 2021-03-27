@@ -1,0 +1,2 @@
+# single_page_application
+单页面利用案例（利用location的hash属性），就是手机底部选项卡的单页面跳转
